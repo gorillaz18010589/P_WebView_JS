@@ -1,0 +1,2 @@
+rootProject.name='P_WebView_JS'
+include ':app'
